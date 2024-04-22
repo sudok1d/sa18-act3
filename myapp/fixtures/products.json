@@ -1,0 +1,30 @@
+[
+    {
+      "model": "myapp.product",
+      "pk": 1,
+      "fields": {
+        "name": "Apple",
+        "price": "3.99",
+        "description": "Crispy fresh gala apple"
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 2,
+      "fields": {
+        "name": "Mechanical Keyboard",
+        "price": "110.99",
+        "description": "Clicky custom keyboard with cherry red switches"
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 3,
+      "fields": {
+        "name": "Wireless Mouse",
+        "price": "15.49",
+        "description": "Smooth wireless mouse with 3000 dpi"
+      }
+    }
+  ]
+  
